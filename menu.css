@@ -1,0 +1,28 @@
+.part{
+		background: url(https://i.ytimg.com/vi/aTZL0DpSB1E/maxresdefault.jpg);
+	    background-size: cover;
+	}
+	.para {
+		color: #ffffff;
+
+	}
+	.content div{
+	padding:1%;
+	margin:1%;
+	width:25%;
+	height:140%;
+}
+/*menu css*/
+.video video{
+	width: 100%;
+	height: 120%;
+}
+.video h2{
+	color:blue;
+}
+.content{
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: space-around;
+}
